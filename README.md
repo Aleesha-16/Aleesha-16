@@ -83,18 +83,11 @@
 
 ## 📫 Connect With Me
 
-- - LinkedIn: https://www.linkedin.com/in/aleesha-8117a1320
+- LinkedIn: https://www.linkedin.com/in/aleesha-8117a1320
+  - 
 - Email: *aleesha35153@gmail.com*
 
 ---
 
 ⭐ Thanks for visiting my profile!
-## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Aleesha-16&show_icons=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleesha-16&layout=compact"/>
-</p>
