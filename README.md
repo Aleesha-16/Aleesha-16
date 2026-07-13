@@ -85,7 +85,7 @@
 
 - LinkedIn: https://www.linkedin.com/in/aleesha-8117a1320
   - 
-- Email: *aleesha35153@gmail.com*
+- Email: aleesha35153@gmail.com
 
 ---
 
