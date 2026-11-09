@@ -1,56 +1,52 @@
-# 👋 Hi, I'm Aleesha
+ <div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=500&size=23&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=B.Tech+Information+Technology+Student;Aspiring+Software+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Projects+and+Learning+Every+Day" alt="Typing Animation" />
-</p>
+# Hi 👋, I'm Aleesha
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aleesha-8117a1320">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:aleesha35153@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-555555?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Aleesha-16">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+### B.Tech IT Student | Aspiring Software Developer | AI/ML Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Real+World+Projects;Always+Learning+New+Technologies" alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aleesha-8117a1320)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Aleesha-16)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aleesha35153@gmail.com)
+
+</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-I am a third-year **B.Tech Information Technology student** at **Panipat Institute of Engineering & Technology (PIET)**, passionate about software development, problem-solving, and emerging technologies.
+I am a third-year **B.Tech Information Technology student** at **Panipat Institute of Engineering & Technology (PIET)**.
 
-I enjoy exploring new technologies and building practical projects to strengthen my technical skills.
+I am passionate about software development, artificial intelligence, and exploring emerging technologies. I enjoy building practical projects and continuously improving my technical and problem-solving skills.
 
 - 🎓 B.Tech Information Technology (2024–2028)
 - 💻 Interested in Software Development and AI/ML
-- 🌱 Currently improving my programming and development skills
-- 🤝 Exploring Open Source Contributions
-- 🎯 Focused on continuous learning and professional growth
+- 🌱 Currently exploring new technologies and development tools
+- 🤝 Interested in Open Source Contributions
+- 🎯 Working towards becoming a skilled Software Developer
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 **Programming Languages**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,php" />
-</p>
+<div>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,php" />
+</div>
 
-**Frontend & Backend**
+**Frontend & Backend Development**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
-</p>
+<div>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
+</div>
 
-**Databases & Tools**
+**Databases & Development Tools**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,vscode" />
-</p>
+<div>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,vscode" />
+</div>
 
 ---
 
@@ -65,32 +61,37 @@ I enjoy exploring new technologies and building practical projects to strengthen
 | CampusConnect | PHP and PostgreSQL-based database project |
 | AI Chatbot | AI-powered conversational assistant |
 
-<p align="center">
-  <a href="https://github.com/Aleesha-16?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+[![Explore Repositories](https://img.shields.io/badge/Explore%20All%20Projects-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aleesha-16?tab=repositories)
+
+</div>
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aleesha-16&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleesha-16&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=Aleesha-16&theme=transparent&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aleesha-16&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" alt="GitHub Statistics" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleesha-16&layout=compact&theme=default&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+
+<br/><br/>
+
+<img width="60%" src="https://streak-stats.demolab.com/?user=Aleesha-16&theme=default&hide_border=true" alt="GitHub Streak" />
+
+</div>
 
 ---
 
 ## 📈 Contribution Activity
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aleesha-16&theme=github-compact&hide_border=true" alt="Contribution Activity Graph" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aleesha-16&bg_color=ffffff&color=333333&line=2563EB&point=2563EB&area=true&hide_border=true" width="95%" alt="Contribution Graph" />
+
+</div>
 
 ---
 
@@ -100,30 +101,26 @@ I enjoy exploring new technologies and building practical projects to strengthen
 - Exploring Artificial Intelligence and Machine Learning
 - Building practical software development projects
 - Learning cloud technologies
-- Contributing to open-source projects
+- Exploring open-source contributions
 
 ---
 
-## 📫 Connect With Me
+## 📬 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aleesha-8117a1320">
-    LinkedIn
-  </a>
-  &nbsp; • &nbsp;
-  <a href="mailto:aleesha35153@gmail.com">
-    Email
-  </a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/Aleesha-16">
-    GitHub
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aleesha-16&label=Profile%20Views&color=3B82F6&style=flat-square" alt="Profile Views" />
-</p>
+I'm always interested in learning, collaborating, and connecting with people in technology.
 
-<p align="center">
-  <i>"Learning consistently. Building thoughtfully. Growing continuously."</i>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aleesha-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aleesha-8117a1320)
+[![GitHub](https://img.shields.io/badge/GitHub-Aleesha--16-181717?style=flat-square&logo=github)](https://github.com/Aleesha-16)
+[![Gmail](https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aleesha35153@gmail.com)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Aleesha-16&label=Profile%20Views&color=2563EB&style=flat-square" alt="Profile Views" />
+
+<br/><br/>
+
+*Learning consistently. Building thoughtfully. Growing continuously.*
+
+</div>
