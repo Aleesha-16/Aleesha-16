@@ -1,93 +1,107 @@
-<h1 align="center">Hi 👋, I'm Aleesha</h1>
-
-<h3 align="center">B.Tech IT Student | Full Stack Developer | AI Enthusiast</h3>
+# 👋 Hi, I'm Aleesha
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;B.Tech+IT+Student;Always+Learning+New+Technologies"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=500&size=23&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=B.Tech+Information+Technology+Student;Aspiring+Software+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Projects+and+Learning+Every+Day" alt="Typing SVG" />
 </p>
 
-
-### 🎓 B.Tech Information Technology Student
-📍 Panipat Institute of Engineering & Technology (PIET)
-
----
-
-## 👩‍💻 About Me
-
-- 💻 Aspiring Software Engineer | Full Stack Developer | AI Enthusiast
-- 🌱 Currently learning Full Stack Development and AI
-- 🚀 Passionate about building real-world projects
-- 🎯 Goal: Become a Software Engineer
-- 📚 Always learning new technologies and improving my development skills
+<p align="center">
+  <a href="https://www.linkedin.com/in/aleesha-8117a1320">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:aleesha35153@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-555555?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Aleesha-16">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-### Programming Languages
+I am a third-year **B.Tech Information Technology student** at **Panipat Institute of Engineering & Technology (PIET)**, interested in software development, artificial intelligence, and emerging technologies.
 
-- C
-- C++
-- Java
-- Python
-- JavaScript
-- PHP
+I enjoy learning by building projects and applying technical concepts to practical problems.
 
-### Frontend
-
-- HTML
-- CSS
-- React
-
-### Backend
-
-- Node.js
-- PHP
-
-### Databases
-
-- MySQL
-- PostgreSQL
-- MongoDB
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
+- 🎓 B.Tech in Information Technology (2024–2028)
+- 💻 Interested in Software Development and AI/ML
+- 🌱 Currently improving my programming and development skills
+- 🤝 Exploring Open Source Contributions
+- 🎯 Focused on continuous learning and professional growth
 
 ---
+
+## Tech Stack & Tools
+
+**Languages**
+
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,python,php,c,cpp,mysql,postgres,mongodb,git,github,vscode"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,php" />
 </p>
 
-## 🚀 Projects
+**Development**
 
-- 📝 Complaint Portal
-- 🎓 Campus Connect
-- 🛒 Grocery Store
-- 🤖 AI Chatbot
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
+</p>
 
----
+**Databases & Tools**
 
-## 🎯 Current Goals
-
-- 🌟 Build more real-world projects
-- ☁️ Learn Cloud Computing
-- 🤝 Contribute to Open Source
-- 📈 Improve DSA
-- 💼 Get an internship
-- 🚀 Build a professional portfolio website
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,vscode" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+## Featured Projects
 
-- LinkedIn: https://www.linkedin.com/in/aleesha-8117a1320
-  - 
-- Email: aleesha35153@gmail.com
+| Project | Description |
+|---|---|
+| [ResumeMatchAI](https://github.com/Aleesha-16/ResumeMatchAI) | Resume analysis and job matching application |
+| [Obesity Prediction System](https://github.com/Aleesha-16) | Machine learning-based obesity prediction |
+| [Breast Cancer Detection](https://github.com/Aleesha-16) | ML-based breast cancer classification |
+| [Diabetes Prediction](https://github.com/Aleesha-16) | Machine learning-based diabetes prediction |
+| CampusConnect | PHP and PostgreSQL-based database project |
+| AI Chatbot | AI-powered conversational assistant |
 
 ---
 
-⭐ Thanks for visiting my profile!
+## GitHub Statistics
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aleesha-16&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleesha-16&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Aleesha-16&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aleesha-16&theme=github-compact&hide_border=true" />
+</p>
+
+---
+
+## Current Focus
+
+- Strengthening Data Structures and Algorithms
+- Exploring AI and Machine Learning
+- Developing practical software projects
+- Learning cloud technologies
+- Contributing to open-source projects
+
+---
+
+<p align="center">
+  <i>"Learning consistently. Building thoughtfully. Growing continuously."</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aleesha-16&label=Profile%20Views&color=3B82F6&style=flat" />
+</p>
